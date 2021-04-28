@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130255528293",
+    "project_id": "siyou-online-20370",
+    "storage_bucket": "siyou-online-20370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130255528293:android:fe01ef9bfd81235740418c",
+        "android_client_info": {
+          "package_name": "com.smartervision.ecommerce_app_ui_kit.ecommerce_app_ui_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130255528293-c1fp80t5o1b99uhln5tpu4hjn55gitfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3lVSQv6xeSWBoRAj7aLokDvYK2XJx7q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130255528293-c1fp80t5o1b99uhln5tpu4hjn55gitfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

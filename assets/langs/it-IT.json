@@ -1,0 +1,572 @@
+{
+  "mainScreen": {
+    "test": "Ciao Mondo"
+  },
+  "loginScreen": {
+    "email": "Indirizzo Email",
+    "password": "Parola d’Ordine",
+    "sign_in": "Accedi",
+    "forgot_password": "Dimenticata la Password?",
+    "invalid_email": "Inserire una Email valida",
+    "invalid_password": "Per Favore Inserire una Password Valida",
+    "invalid_pass_length": "La Password Deve Contenere più di 4 Caratteri",
+    "invalid": "E-mail o Password non Valide!"
+  },
+  "staff":{
+    "list":"Lista staff",
+    "manager":"Lista manager",
+    "op":"lista operatore"
+  },
+  "shopOwner": {
+    "Home": "Casa",
+    "Search": "Ricerca-",
+    "Supplier": "Fornitore",
+    "Category": "Categoria",
+    "Brand": "Marca",
+    "Cart": "Carrello",
+    "Profile": "Profilo",
+    "Wishlist": "Lista dei desideri",
+    "orders": "Ordini",
+    "Settings": "Impostazioni",
+    "FAQ": "FAQ",
+    "Wallet": "Portafoglio",
+    "shipped": "Logistica",
+    "payment": "Pagamento",
+    "support": "Supporto",
+    "product": "Prodotto",
+    "items": "Elementi",
+    "quickadd": "Aggiunta rapida",
+    "pack/box": "Pacchetto / scatolax",
+    "addtocart": "Aggiungi al carrello",
+    "Specification": "Specifiche",
+    "Details": "Dettagli",
+    "newproduct": "Nuovo prodotto",
+    "recommended": "Consigliato",
+    "clear": "Chiaro",
+    "checkout": "Checkout",
+    "your wishlist": "La tua lista dei desideri",
+    "emptycart": "Carrello vuoto",
+    "notifications": "Notifiche",
+    "legal": "Informazioni legali e informazioni",
+    "aboutus": "Riguardo a noi",
+    "account": "Account",
+    "signout": "Disconnessione",
+    "general": "Generale",
+    "privacy": "Privacy e disconnessione",
+    "orderlist": "Il tuo elenco ordini",
+    "questions": "Domande e risposte",
+    "Discounts": "Sconti",
+    "New Arrivals": "Nuovi Arrivi",
+    "Purchased": "Cronologia acquisti",
+    "Discovery": "Scoperta",
+    "Sort": "Tipo",
+    "NameA-Z":"Name A-Z",
+    "NameZ-A":"Name Z-A",
+    "pricelow-hight":"Price low-hight",
+    "pricehigh-low":"Price high-low",
+    "Scan": "Scansione",
+    "Country":"Change Country",
+    "Password":"Change Password",
+    "Help":"Help & Support",
+    "productslist":"Elenco Dei Prodotti",
+    "description":"Descrizione ",
+    "viewmore":"vedi di più",
+    "outofstock":"Esaurito",
+    "helpc":"Help center and legal support",
+    "orderno":"Numero d'ordine",
+    "status":"Stato",
+    "productlist":"Elenco prodotti",
+    "invalid":"Non valido",
+    "valid":"Valido ",
+    "paid":"Pagato",
+    "opss":"Oops, Qualcosa è andato storto !",
+    "tryagain":"Tocca per riprovare",
+    "emptywish":"La tua lista di desideri è vuota",
+    "wishexplor":" Cerca e scegli altri prodotti desiderati",
+    "allcat":"All categories",
+    "allsupp":"All suppliers",
+    "allbrand":"All brands",
+    "allorders":"All orders",
+    "Showall":"Show all products",
+    "Total ":"totale"
+    
+
+  },
+  "ConfirmOrder":{
+    "shippingprice":"Costo di spedizione: ",
+    "negotiated":"Da negoziare ! ",
+    "purchasedate":"Data di Aquisto : ",
+    "Minimumorder":"Importo minimo dell'ordine : ",
+    "confirmorder":"Conferma l'ordine",
+    "product":"Elenco Prodotti",
+    "credit ":"Credit Card",
+    "paypal":"PayPal",
+    "bank":"Bank Transfers",
+    "bankcheck":"Bank Check",
+    "delivery":"Payment on delivery"
+
+  },
+  "settingsScreen": {
+    "title": "Impostazione",
+    "langs": "La Lingua",
+    "lang_select": "Seleziona la Lingua",
+    "theme": "Tema",
+    "profile": "Profilo",
+    "account": "Conto",
+    "personalization": "Personalizzazione",
+    "notification": "Notifiche",
+    "enabled": "Notifiche Abilitate per PM da Sconosciuti!",
+    "noConnection": "No Connessione",
+    "languages": "[\"English\", \"Italiano\", \"Spagnola\", \"Français\", \"Cinese\", \"Tedesco\"]"
+  },
+  "notificationScreen": {
+    "title": "Notifiche"
+  },
+  "myStoresScreen": {
+    "completedOrder": "Ordine Completato",
+    "returnedProduct": "Prodotto Reso",
+    "thisWeek": "Questa Settimana",
+    "products": "Prodotti",
+    "orders": "Ordini",
+    "today": "Oggi",
+    "barcodeError": "Errore di Scansione del Codice a Barre",
+    "barcodeErrorText": "È Accaduto Qualcosa ! Impossibile Eseguire la Scansione del Codice a Barre. Riprovare!",
+    "ok": "OK"
+  },
+  "membersScreen": {
+    "title": "Membri",
+    "addMember": "AGGIUNGI MEMBRO",
+    "cards": {
+      "usedCards": "Carte Usate",
+      "activeMembers": "Membri Attivi",
+      "membersSales": "Vendite dei Membri"
+    },
+    "recent": "Membri Aggiunti di Recente",
+    "filterBy": "Filtra per",
+    "week": "Settimana",
+    "month": "Mese",
+    "year": "Anno",
+    "highest": "Più Alta",
+    "lowest": "Più Bassa",
+    "growth": "Crescita dei Membri all'Anno"
+  },
+  "scanScreen": {
+    "title": "Schermo Scan",
+    "name": "Nome",
+    "scan": "Scan",
+    "edit": "Modifica",
+    "save": "Salva",
+    "delete": "Elimina",
+    "print": "Stampa",
+    "history": "Storica",
+    "seeMore": "Vedi Dettagli",
+    "loading": " Caricamento in corso...",
+    "barcodeError": "Errore di scansione del codice a barre",
+    "barcodeErrorText": "È accaduto qualcosa ! Impossibile eseguire la scansione del codice a barre, riprovare!",
+    "label_saved": " Etichetta salvata ",
+    "print_loading": " Caricamento in corso...",
+    "device_connected": ", Collegato al dispositivo.",
+    "device_failed": " Impossibile connettersi al dispositivo!",
+    "label_printed": " Etichette stampate ",
+    "label_error": " Errore! È accaduto qualcosa",
+    "custom_print": " Stampa personalizzata "
+
+  },
+  "homeScreen": {
+    "add":"Inserisci",
+    "myStores": "Miei Negozi",
+    "onlineShop": "Negozio Online",
+    "members": "Membri",
+    "returned":"Beni restituiti",
+    "warehouse": "Magazzino",
+    "home": "Casa",
+    "growth": "Crescita delle Vendite all'Anno",
+    "sales": "Saldi",
+    "revenue": "Reddito",
+    "statistics": "Statistica",
+    "products": "Prodotti",
+    "quick": "Presto",
+    "quick_add": "Inserisci",
+    "quick_zebra": "Zebra",
+    "quick_discount": "sconto",
+    "orders": "Ordini",
+    "increase": "Aumentare",
+    "list": "Elenco",
+    "discount": "Sconto",
+    "suppliers": "Fornitori",
+    "salesToday": "Saldi Oggi",
+    "salesThisMonth": "Saldi Questo Mese",
+    "salesOnline": "Quest'anno le vendite",
+    "totalOrders": "Ordini totali di questo mese",
+    "onlineSalesToday": "Saldi Online Oggi",
+    "onlineSalesThisMonth": "Saldi Online Questo Mese",
+    "overview": "Panoramica",
+    "commodity": "Merce",
+    "records": "Storica",
+    "purchase": "Acquisto",
+    "purchaseOrders": "Ordini Acquisto",
+    "checkProduct": "Prodotti",
+    "inventoryWarning": "Avviso Inventario",
+    "suppliersList": "Fornitori",
+    "all_stores": "Tutti i negozi",
+    "stock":"Stock",
+    "staff":"Staff",
+    "b2s":"Purchase B2S",
+    "addmanager":"Aggiungi store manager",
+    "addop":"Aggiungi operatore",
+    "view":"View details",
+    "checkbarcode":"Alla ricerca di codice a barre"
+  },
+  "checkprint":{
+    "devices":"Dispositivo Trovato: ",
+    "connect":"Collega",
+    "dprinter":"Collega Stampanti prima"
+  },
+  "addmanger":{
+    "title":"Nuovo Manager",
+    "pw":"Password",
+    "cashier":"Password Operatore",
+    "account":"Account",
+    "warehouse":"Autorizzazione Magazino",
+    "B2S":"Autorizzazione B2S",
+    "s2c":"Autorizzazione S2C"
+  },
+  "addop":{
+    "title":"Aggiungi operatore",
+    "pw":"Password",
+    
+    "account":"Account",
+    "warehouse":"Warehouse access",
+    "B2S":"B2S access",
+    "s2c":"S2C access"
+  },
+  "permission":{
+    "Disabled" :"Disattivato",
+    "Activated":"Attivato"
+  },
+
+  "warehouse":{
+    "add":"Aggiungi magazzino",
+    "name":"Nome",
+    "pick":"Scegli il tuo indirizzo",
+    "description":"Descrizione",
+    "firstRes":"Primo nome responsabile",
+    "secondRes":"Secondo nome responsabile"
+   },
+
+  "inventory":{
+    "add":"Aggiungi inventario",
+    "plist":"Elenco prodotti",
+    "import":"Importa Excel",
+    "inventory":"Inventory",
+    "batch":"Batch No ",
+    "operator":"Operator ",
+    "cdate":"Data di creazione",
+    "updatedate":"Data ultimo aggiornamento",
+    "opstatus":"Operator status ",
+    "verfier":"Verfier :",
+    "verfierstatus":"Verfier status ",
+    "supplier":"Fornitore",
+    "orderdate":"Data dell'ordine",
+    "name":"Nome",
+    "barcode":"Codice a Barre",
+    "received":"Received",
+    "passed":"eseguire",
+    "pending":"in attesa di",
+    "errorp":"La quantità d'arrivo non deve superare quella preregistrata.",
+    "status":"Stato",
+    "orderPrice":"Prezzo dell'ordine",
+    "noticepurchase":"Non è possibile modificare le informazioni sull'acquisto dopo la conferma.",
+    "confirmPurchase":"Conferma e aggiungi inventario",
+    "confirmPurchasetostock":"Conferma e aggiungi allo stock",
+    "all":"Tutti",
+    "completed":"Completed",
+    "view":"Dettagli"
+
+  },
+  "quick": {
+    "quickzebrah":"Storia rapida della zebra",
+    "quickdiscounth":"Cronologia degli sconti rapidi",
+    "quick_zebra": "Zebra veloce",
+    "quick_discount": "Sconto rapido",
+    "start": "Inizia scansione",
+    "barcode_sent": "Il codice a barre è stato salvato nel server.",
+    "scan_error": "Errore del server"
+  },
+  "onBoardingScreen": {
+    "titleView1": "Scopri",
+    "view1": "Scopri il tuo Primo Negozio S2C alla Soluzione clienti.",
+    "titleView2": "Traccia",
+    "view2": "Traccia i Tuoi Ricavi Ovunque.",
+    "titleView3": "Gestisce",
+    "view3": "Gestisce il Tuo Business Your e Visualizzare i Tuoi Ricavi."
+  },
+  "productsListScreen": {
+    "productsList": "Lista Prodotti",
+    "onSale": "In Saldo",
+    "inViolation": "In Violation",
+    "warehouse": "Magazzino",
+    "filter": "Filtro Prodotti",
+    "filter_title": "Filtro",
+    "byName": "da Nome",
+    "byStock": "da Inventario",
+    "byPrice": "da Prezzo",
+    "byBrand": "da Marchio   ",
+    "bySupplier": "da Fornitore",
+    "byStore": "By Store"
+  },
+  "noData": {
+    "nomore":"Niente più dati",
+    "select": "Selezionare il Negozio e Visualizzare la Data.",
+    "scan_notfound": "Impossibile Trovare un Codice a Barre Scansionato Corrispondente al Prodotto!",
+    "no_scan": "Nessuna Cronologia di Scansione Trovata"
+  },
+  "notificationItem": {
+    "title": "Notifiche"
+  },
+  "orderDetailsWidget": {
+    "title":"Detaglio Transazione",
+    "tno":"Transazione No",
+    "productcount":"Prodotti Quantita",
+    "discount":"Scontato",
+    "cdiscount":"Coupon",
+    "memberprice":"Membro Prezzo",
+    "tax":"Iva",
+    "total":"Totale",
+    "unitprice":"Prezzo Unitario",
+    "discountprice":"Prezzo Scontato",
+    "quantity":"Quantita’",
+    "subtotal":"Subtotale",
+    "receiptNumber": "Receipt Number ",
+    "orderQrCode": "ORDER QR CODE",
+    "totalAmount": "Total Amount",
+    "dismiss": "Dismiss",
+    "print": "Print"
+  },
+  "productItem": {
+    "regularPrice": "Prezzo Normale",
+    "discountPrice": "Prezzo Scontato",
+    "costPrice":"Prezzo di costo",
+    "barcode":"Codice a Barre",
+    "soldItems": "Pezzi Venduti",
+    "remainingItems": "Pezzi Rimasti",
+    "quantity": "Quantità",
+    "rate": "Tassa",
+    "updateTime":"Ultimo aggiornamento",
+    "returned":"Quantità restituita",
+    "addreturned":"Nuova quantità di reso"
+  },
+
+  "productTag":{
+    "outofstock":"Esaurito",
+    "warning":"Avviso di stock",
+    "discounted":"Scontato"
+  }, 
+  "productLabels": {
+    "title": "SiYou Market\n Codice a Barre"
+  },
+  "productsScreen": {
+    "title": "Prodotti",
+    "topTrendingProducts": "10 Prodotti di Tendenza",
+    "productsChart": "Tabella dei Prodotti",
+    "recentlyAddedProducts": "Prodotti Aggiunti di Recente",
+    "addProduct": "Aggiungere Prodotto",
+    "thisWeek": "Questa Settimana",
+    "today": "Oggi"
+  },
+  "common": {
+    "currency": " €"
+  },
+  "trendingProducts": {
+    "soldItems": "Pezzi Venduti"
+  },
+  "listViewItem": {
+    "showMore": "Visualizzare Più"
+  },
+  "recentAddedProduct": {
+    "addedItems": "Pezzi Aggiunti"
+  },
+  "nodata": {
+    "nodata": "Nessun dato trovato",
+    "again" :"scansiona di nuovo ?",
+    "againprint":"Continuare a scansionare ?"
+  },
+  "covid":{
+    "cases":"casi",
+    "recovered":"recuperato",
+    "death":"morte"
+   },
+  "addProductWidget": {
+    "title":"aggiungi prodotto",
+    "name": "Nome",
+    "barcode": "Codice a Barre",
+    "return":"Quantità restituita",
+    "costPrice": "Prezzo Costo",
+    "retailPrice": "Prezzo Listino ",
+    "discountPrice": "Prezzo Membro",
+    "taxRate": "IVA",
+    "stockInventory": "Inventario",
+    "select_image": "Selezionare Immagine",
+    "classification": "Classificazione",
+    "providers": "Fornitori",
+    "cancel": "Cancellla",
+    "save": "Salva",
+    "warn_quantity": "Avvertire quantità",
+    "supplier": "fornitore ",
+    "category": "Categoria ",
+    "chain": "Negozio ",
+    "alert": "Allarme ",
+    "alert_content": "Siyou Store ha bisogno di accedere alla tua galleria o fotocamera per ottenere un'immagine del prodotto ",
+    "error": "Errore in aggiungere prodotto ",
+    "vip":"Punto VIP",
+    "take_image": "Prendi immagine ",
+    "ReturnedQ": "Returned Quantity",
+    "Recivied":"received quantity",
+    "verified":"verified quantity"
+
+  },
+
+  "categorylist":{
+    "CLOTHING":"ABBIGLIAMENTO",
+    "SHOES":"SCARPE",
+    "BAG":"BORSA",
+    "ACCESSORIES":"ACCESSORI",
+    "INTIMATE":"INTIMO",
+    "chose":"ENTRA NELLO SPAZIO PER DIGITARE"
+  },
+  "funds":{
+    "funds":"Fondi",
+    "payable":"Fondi Acquistati",
+    "payment":"Modalità di Pagamento",
+    "Name":"Nome",
+    "days":"Giorni",
+    "actions":"Azioni",
+    "startdate":"Data di inizio",
+    "enddate":"Data di fine",
+    "image":"Immagine",
+    "amount":"Importo",
+    "status":"Stato",
+    "paid":"Pagato",
+    "notpaid":"Non pagato",
+    "canceled":"Annullato"
+   },
+  "addMemberWidget": {
+    "information": "Info Personali",
+    "first": "Nome",
+    "last": "Cognome",
+    "email": "Indirizzo Mail",
+    "facebook": "Facebook",
+    "phone": "Numero Telefono",
+    "address": "Indirizzo",
+    "city": "Città",
+    "zip": "CAP",
+    "state": "Provincia",
+    "country": "Stato",
+    "fidelity": "Tessera Fidelity",
+    "expried":"Data di scadenza",
+    "barcode": "Codice a Barre"
+  },
+  "utils": {
+    "cancel": "Cancella",
+    "save": "Salva",
+    "ok": "Ok",
+    "delete":"Elimina",
+    "inputError": "Inserire Qualche Parola Per Favore",
+    "invalid_data": "Data Invalida",
+    "provide_data": "Inserire una Data Valida!",
+    "server_error": "Oops, Qualcosa Non Va !",
+    "underConstruction": "In Allestimento",
+    "nameValidation": "Il Nome Deve Avere più di 2 Caratteri",
+    "productnotex":"Il codice a barre è nuovo. Vorresti aggiungere questo prodotto?",
+    "change":"Modificare la quantità di acquisto",
+    "yes":"Si"
+  },
+  "membersListScreen": {
+    "title": "Lista Membri"
+  },
+  "calendar": {
+    "thisWeek": "Questa Settimana",
+    "today": "Oggi",
+    "thisMonth": "Questo Mese"
+  },
+  "members": {
+    "membersStatistics": "Statistiche Membri",
+    "top": "Primi 10 Membri",
+    "memberAdded": "Membro Aggiunto",
+    "addAnother": "Aggiungere Un Altro",
+    "membersList": "Lista Membri"
+  },
+  "discount": {
+    "title": "Sconto",
+    "error":" Questo dosaggio del prodotto ha un prezzo scontato, Si prega di impostare un prezzo scontato E torna a stamparlo ."
+  },
+  "suppliers": {
+    "title": "Fornitori"
+  },
+  "suppliersOrders": {
+    "title": "Ordini Fornitore"
+  },
+  "labelsListScreen": {
+    "title": "Lista Etichette",
+    "delete_title": "Cancella Etichetta",
+    "delete_content": "Sei Sicuro di Cancellare Questa Etichetta?",
+    "labels_deleted": "Etichetta Cancellata"
+  },
+  "statisticsScreen": {
+    "title": "Statistiche",
+    "sales_categ": "Categoria Vendita",
+    "weekly_orders": "Ordini Settimanali",
+    "monthly_orders": "Ordini Mensili",
+    "sales_suppliers_categ": "Fornitori' Categoria Vendita",
+    "order_amount": "Importo Ordine",
+    "order_quantity":"Quantità Ordini",
+    "product_quantity":"Quantità prodotti",
+    "product_sale_quantity":"Quantità vendita prodotti",
+    "Sales_a_b_category":"Importo vendita a categoria",
+    "Sales_a_b_supplier":"Importo Vendita a Fornitore",
+    "start_date":"Data inizio",
+    "end_date":"Data fine",
+    "barcode":"Codice a barre",
+    "Q_bymonth":"Quantità mensile",
+    "Q_byyear":"Quantità annuale",
+    "S_bymonth":"Vendita mensile",
+    "S_byyear":"Vendita Annualer",
+    "topproducts":"Top products",
+    "turnover":"Turnover",
+    "gprofit":"Gross profit",
+    "inventoryalert":"Avviso di inventario",
+    "byday": "Di giorno",
+    "bymonth": "Per mese",
+    "byyear": "Per anno",
+    "lastmonth":"lo scorso mese"
+  },
+  "productList": {
+    "alert_title": "Cancellare Prodotto",
+    "alert_content": "Sei Sicuro di Cancellare il prodotto?"
+  },
+  "bottomNavigation": {
+    "home": "Casa",
+    "products": "Prodotti",
+    "add": "Aggiunge",
+    "scan": "Scanizzare"
+  },
+  "ordersScreen": {
+    "title": "Clienti' Ordini"
+  },
+  "statistics": {
+    "topTrendingCategories": "Top Categorie",
+    "topTrendingSuppliers": "Top Fornitori"
+  },
+  "serverError": {
+    "session_exp": "Sessione scaduta ",
+    "session_error": "La tua sessione è scaduta. Accedi nuovamente per continuare a utilizzare l'app.",
+    "okay": " Va bene ",
+    "1": "Parametri mancanti ",
+    "2": "Sessione scaduta. Riconnetti ",
+    "3": "Errore interno ",
+    "4": "Accesso negato. Non hai accesso alle risorse richieste ",
+    "5": "il codice a barre selezionato esiste già",
+    "else": "È accaduto qualcosa !",
+    "store_error": "Nessun negozio selezionato"
+  }
+}

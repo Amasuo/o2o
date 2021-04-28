@@ -1,0 +1,496 @@
+{
+  "loginScreen": {
+    "email": "Nutzername",
+    "password": "Passwort",
+    "sign_in": "Anmelden",
+    "forgot_password": "Passwort vergessen?",
+    "invalid_email": "Bitte geben Sie eine gültige Email-Adresse ein",
+    "invalid_password": "Bitte geben Sie ein gültiges Passwort ein",
+    "invalid_pass_length": "Das Passwort sollte länger als 4 Zeichen sein",
+    "invalid": "Ungültige E-Mail oder Passwort !"
+  },
+  "staff":{
+    "list":"Staff List",
+    "manager":"Managers List",
+    "op":"Operators list"
+  },
+  
+  "shopOwner": {
+    "Home":"Home",
+    "Search": "Search",
+    "Supplier": "Supplier",
+    "Category": "Category",
+    "Brand": "Brand",
+    "Cart": "Cart",
+    "Profile": "Profile",
+    "Wishlist":"Wishlist",
+    "orders": "Orders",
+    "Settings": "Settings",
+    "FAQ": "FAQ",
+    "Wallet": "Wallet",
+    "shipped": "shipped",
+    "payment": "payment",
+    "support":"support",
+    "product": "product",
+    "items": "items",
+    "quickadd": "quick add",
+    "pack": "Package",
+    "box": "BOX",
+    "addtocart": "Add to cart",
+    "Specification": "Specification",
+    "Details": "Details",
+    "newproduct":"New product",
+    "recommended":"Recommended",
+    "clear":"Clear List",
+    "checkout":"Checkout",
+    "yourwishlist":"your wishlist",
+    "emptycart":"empty cart",
+    "notifications":"Notifications",
+    "legal":"Legal & About",
+    "aboutus":"About us",
+    "account":"Account",
+    "signout":"Sign out",
+    "general":"General",
+    "privacy":"Privacy and logout",
+    "orderlist":"Your Orders List",
+    "Discounts":"Discounts",
+    "New Arrivals":"New Arrivals",
+    "Purchased":"Purchased",
+    "Discovery":"Discovery",
+    "Sort":"Sort",
+    "Scan":"Scan",
+    "Country":"Change Country",
+    "Password":"Change Password",
+    "Help":"Help & Support",
+    "productslist":"Products List",
+    "description":"Description ",
+    "viewmore":"View More ",
+    "outofstock":" OUT OF STOCK ",
+    "gocart":"GO CART",
+    "back":"Back",
+    "addedcart":"Your Product has been added to cart.",
+    "helpc":"Help center and legal support",
+    "orderno":"Order No",
+    "status":"Status",
+    "productlist":"Product List",
+    "invalid":"Invalid",
+    "valid":"Vaild",
+    "paid":"Paid",
+    "opss":"Opss, Somthing went Wrong !",
+    "tryagain":"Tap to try again",
+    "emptywish":"Your wishlist is empty",
+    "wishexplor":"Explore more & shortlist some items",
+    "Total":"Total"
+
+
+    
+  },
+  "settingsScreen": {
+    "title": "die Einstellungen",
+    "langs": "Sprachen",
+    "lang_select": "Sprache auswählen",
+    "theme": "Thema",
+    "profile": "Profil",
+    "account": "Konto",
+    "personalization": "Personalisierung",
+    "notification": "Benachrichtigungen",
+    "enabled": "Aktivierte Benachrichtigungen für PMs von Fremden!",
+    "noConnection": "Keine Verbindung"
+  },
+  "notificationScreen": {
+    "title": "Benachrichtigungen"
+  },
+  "membersScreen": {
+    "title": "Mitglieder",
+    "addMember": "MITGLIED HINZUFÜGEN",
+    "cards": {
+      "usedCards": "Benutzte Karten",
+      "activeMembers": "Aktive Mitglieder",
+      "membersSales": "Mitglieder Umsatz"
+    },
+    "recent": "Kürzlich hinzugefügte Mitglieder",
+    "filterBy": "Filtern nach",
+    "week": "Woche",
+    "month": "Monat",
+    "year": "Jahr",
+    "highest": "Höchste",
+    "lowest": "Niedrigste",
+    "growth": "Mitgliederwachstum pro Jahr"
+  },
+  "scanScreen": {
+    "title": "Scan-Bildschirm",
+    "name": "Name",
+    "scan": "Scan",
+    "edit": "Bearbeiten",
+    "print": "Drucken",
+    "save": "sparen",
+    "history": "Kürzlich gescannt",
+    "seeMore": "Mehr sehen",
+    "loading": "Wird geladen...",
+    "barcodeError": "Barcode-Scan-Fehler",
+    "barcodeErrorText": "Etwas passiert ! Barcode konnte nicht gescannt werden. Bitte versuchen Sie es erneut!",
+    "label_saved": "Label gespeichert",
+    "print_loading": "Wird geladen...",
+    "device_connected": "Verbunden mit Gerät.",
+    "device_failed": "Verbindung zum Gerät fehlgeschlagen!",
+    "label_printed": "Etiketten gedruckt",
+    "label_error": "Error! Etwas passiert.",
+    "custom_print": "Benutzerdefinierter Druck"
+  },
+  "homeScreen": {
+    "add":"Add",
+    "myStores": "Meine Shops",
+    "onlineShop": "Online Shop",
+    "members": "Mitglieder",
+    "returned":"Returned goods",
+    "warehouse": "Warenhaus",
+    "home": "Zuhause",
+    "growth": "Umsatzwachstum pro Jahr",
+    "sales": "Der Umsatz",
+    "revenue": "Einnahmen",
+    "statistics": "Statistiken",
+    "products": "Produkte",
+    "quick": "Schnell",
+    "quick_add": "Hinzufügen",
+    "quick_zebra": "Zebra",
+    "quick_discount": "Rabatt",
+    "orders": "Aufträge",
+    "increase": "Erhöhen, ansteigen",
+    "list": "Liste",
+    "discount": "Rabatt",
+    "suppliers": "Lieferanten",
+    "salesToday": "Der heutige Umsatz",
+    "salesThisMonth": "Der Umsatz dieses Monats",
+    "salesOnline": "Der heutige Online-Verkauf",
+    "totalOrders": "Bestellungen insgesamt",
+    "onlineSalesToday": "Monatlicher Gesamtumsatz",
+    "onlineSalesThisMonth": "Jährlicher Gesamtumsatz",
+    "overview": "Überblick",
+    "commodity": "Ware",
+    "records": "Aufzeichnungen",
+    "purchase": "Kauf",
+    "purchaseOrders": "Aufträge",
+    "checkProduct": "Produkte",
+    "inventoryWarning": "Inventar",
+    "suppliersList": "Lieferanten",
+    "all_stores": "Alle Geschäfte"
+  },
+  "quick": {
+    "quickzebrah":"Quick Zebra History",
+    "quickdiscounth":"Quick Discount History",
+    "quick_zebra": "Schnelles Zebra",
+    "quick_discount": "Schneller Rabatt",
+    "start": "Scan starten",
+    "barcode_sent": "Der Barcode wurde auf dem Server gespeichert.",
+    "scan_error": "Serverfehler"
+  },
+  "onBoardingScreen": {
+    "titleView1": "Entdecken",
+    "view1": "Entdecken Sie Ihren ersten S2C Store To Customer Solution.",
+    "titleView2": "Spur",
+    "view2": "Verfolgen Sie Ihre Einnahmen von überall.",
+    "titleView3": "Verwalten",
+    "view3": "Verwalten Sie Ihr Unternehmen und vergleichen Sie Ihre Einnahmen."
+  },
+  "productsListScreen": {
+    "productsList": "Produktliste",
+    "onSale": "Produktliste",
+    "inViolation": "In Verletzung",
+    "warehouse": "Warenhaus",
+    "filter": "Produkte filtern",
+    "filter_title": "Suche",
+    "byName": "Stichwort",
+    "bySupplier": "Vom Lieferanten",
+    "byStore": "Von Store"
+  },
+  "noData": {
+    "nomore":"No More data",
+    "select": "Wählen Sie Speichern, um Daten anzuzeigen.",
+    "scan_notfound": "Es wurde kein Produkt gefunden, das mit dem gescannten Barcode übereinstimmt!",
+    "no_scan": "Kein Scanverlauf gefunden"
+  },
+  "notificationItem": {
+    "title": "Benachrichtigung"
+  },
+  "orderDetailsWidget": {
+    "title":"Transaction detail",
+    "tno":"Transaction No",
+    "productcount":"Products count",
+    "discount":"Discount",
+    "cdiscount":"Coupon discount –",
+    "memberprice":"Member price",
+    "tax":"Tax",
+    "total":"Total",
+    "unitprice":"Unit price",
+    "discountprice":"Discount price",
+    "quantity":"Quantity",
+    "subtotal":"Sub total ",
+    "receiptNumber": "Receipt Number ",
+    "orderQrCode": "ORDER QR CODE",
+    "totalAmount": "Total Amount",
+    "dismiss": "Dismiss",
+    "print": "Print"
+  },
+
+  "warehouse":{
+    "add":"Add warehouse",
+    "name":"Name",
+    "pick":"Pick your address",
+    "description":"Description",
+    "firstRes":"First  responsible name",
+    "secondRes":"Second responsible name   "
+   },
+
+  "inventory":{
+    "add":"Add inventory",
+    "plist":"Product list ",
+    "import":"Import from excel ",
+    "inventory":"Inventory",
+    "batch":"Batch No ",
+    "operator":"Operator ",
+    "cdate":"Creation date :",
+    "updatedate":"Last update date ",
+    "opstatus":"Operator status ",
+    "verfier":"Verfier ",
+    "verfierstatus":"Verfier status ",
+    "supplier":"Supplier ",
+    "orderdate":"Order date ",
+    "name":"Name",
+    "barcode":"Barcode",
+    "received":"Received",
+    "passed":"passed",
+    "pending":"pending",
+    "errorp":"Received quantity cannot be higher than pre-order quantity  !",
+    "status":"Inventory Status",
+    "orderPrice":"Order Price",
+    "noticepurchase":"NOTICE: You cannot change Purchase Information after confirming.",
+    "confirmPurchase":"Confirm and add inventory",
+    "confirmPurchasetostock":"Confirm and add to stock",
+    "all":"All",
+    "completed":"Completed",
+    "view":"View Details"
+
+  },
+
+  "funds":{
+    "funds":"Funds",
+    "payable":"Payable Accounts",
+    "payment":"Payment Methods",
+    "Name":"Name",
+    "days":"Days",
+    "actions":"Actions",
+    "startdate":"Start Date",
+    "enddate":"End Date",
+    "image":"Image",
+    "amount":"Amount",
+    "status":"Status",
+    "paid":"PAID",
+    "notpaid":"NOT PAID",
+    "canceled":"Canceled"
+   },
+  "categorylist":{
+    "CLOTHING":"CLOTHING",
+    "SHOES":"SHOES",
+    "BAG":"BAG",
+    "ACCESSORIES":"ACCESSORIES",
+    "INTIMATE":"INTIMATE",
+    "chose":"ENTER THE SPACE TO TYPE"
+  },
+  "productItem": {
+    "regularPrice": "Regulärer Preis",
+    "discountPrice": "Reduzierter Preis",
+    "quantity": "Menge",
+    "rate": "Bewertung",
+    "returned":"Returned quantity",
+    "addreturned":"Add returned quantity"
+  },
+
+  "productTag":{
+    "outofstock":"Out Of Stock",
+    "warning":"Stock Warning",
+    "discounted":"discounted"
+  },
+  "productLabels": {
+    "title": "SiYou Market BarCode"
+  },
+  "productsScreen": {
+    "title": "Produkte",
+    "topTrendingProducts": "Top 10 Trendprodukte",
+    "productsChart": "Produktdiagramm",
+    "recentlyAddedProducts": "Kürzlich hinzugefügte Produkte",
+    "addProduct": "Produkt hinzufügen",
+    "thisWeek": "Diese Woche",
+    "today": "Heute"
+  },
+  "common": {
+    "currency": " Γé¼"
+  },
+  "trendingProducts": {
+    "soldItems": "Verkaufte Artikel"
+  },
+  "listViewItem": {
+    "showMore": "Zeig mehr"
+  },
+  "recentAddedProduct": {
+    "addedItems": "Hinzugefügte Elemente"
+  },
+  "nodata": {
+    "nodata": "No data found"
+  },
+  "covid":{
+    "cases":"cases",
+    "recovered":"recovered",
+    "death":"deaths"
+   },
+  "addProductWidget": {
+    "name": "Name",
+    "title": "Produkt hinzufügen",
+    "store_error": "Selected Speicherfehler",
+    "store_error_content": "Es wurde kein Geschäft ausgewählt, dem der Artikel zugewiesen werden soll!",
+    "barcode": "Barcode",
+    "return":"Returned quantity",
+    "costPrice": "Selbstkostenpreis",
+    "retailPrice": "Einzelpreis",
+    "discountPrice": "VIP-Preis",
+    "rate": "Steuersatz",
+    "warn_quantity": "Menge warnen",
+    "stockInventory": "Menge",
+    "supplier": "Lieferant",
+    "select_image": "Bild auswählen",
+    "category": "Kategorie",
+    "chain": "Geschäft",
+    "cancel": "Stornieren",
+    "save": "sparen",
+    "alert": "Warnen",
+    "alert_content": "Der Siyou Store benötigt Zugriff auf Ihre Galerie oder Kamera, um ein Produktbild zu erhalten",
+    "error": "Produktfehler hinzufügen",
+    "vip":"Vip point",
+    "take_image": "Bild aufnehmen"
+  },
+  "addMemberWidget": {
+    "information": "Persönliche Informationen",
+    "first": "Vorname",
+    "last": "Nachname",
+    "email": "E-Mail-Addresse",
+    "facebook": "Facebook",
+    "phone": "Telefonnummer",
+    "address": "Adresse",
+    "city": "Stadt",
+    "zip": "Postleitzahl",
+    "state": "Zustand",
+    "country": "Land",
+    "fidelity": "Fidelity Card",
+    "expried":"Expire date",
+    "barcode": "Barcodelesegerät"
+  },
+  "utils": {
+    "cancel": "Stornieren",
+    "save": "sparen",
+    "ok": "Okay",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "inputError": "Bitte geben Sie gültige Daten an",
+    "invalid_data": "Ungültige Daten",
+    "provide_data": "Bitte geben Sie gültige Daten an!",
+    "server_error": "Ups, etwas ist passiert!",
+    "underConstruction": "Bauarbeiten im Gange",
+    "nameValidation": "Der Name muss aus mehr als 2 Zeichen bestehen",
+    "productnotex":"The barcode is new. Would you like to add this product ?",
+    "change":"Change purchase quantity",
+    "yes":"Yes"
+  },
+  "membersListScreen": {
+    "title": "Mitgliederliste"
+  },
+  "calendar": {
+    "thisWeek": "Diese Woche",
+    "today": "Heute",
+    "thisMonth": "Diesen Monat"
+  },
+  "members": {
+    "membersStatistics": "Mitgliederstatistik",
+    "top": "Top 10 Mitglieder",
+    "memberAdded": "Mitglied hinzugefügt",
+    "addAnother": "Fügen Sie eine weitere hinzu",
+    "membersList": "Mitgliederliste"
+  },
+  "discount": {
+    "title": "Rabatt",
+    "error":"This Product Dosent Have a Discount Price, Please Set up a Discount Price And Come back to print it ."
+  },
+  "suppliers": {
+    "title": "Lieferanten"
+  },
+  "suppliersOrders": {
+    "title": "Lieferantenbestellungen"
+  },
+  "labelsListScreen": {
+    "title": "Etikettenliste",
+    "delete_title": "Label löschen",
+    "delete_content": "Möchten Sie dieses Label wirklich löschen?",
+    "labels_deleted": "Labels gelöscht"
+  },
+  "statisticsScreen": {
+    "title": "Verkaufsstatistik",
+    "sales_categ": "Verkaufskategorien",
+    "weekly_orders": "Wöchentliche Bestellungen",
+    "monthly_orders": "Monatliche Bestellungen",
+    "sales_suppliers_categ": "Verkaufskategorien der Lieferanten",
+    "order_amount": "Order Amount",
+    "order_quantity":"Order Quantity",
+    "product_quantity":"Product Quantity",
+    "product_sale_quantity":"Product Sale Quantity",
+    "Sales_a_b_category":"Sales Amount By Category",
+    "Sales_a_b_supplier":"Sales Amount By Supplier",
+    "start_date":"Start Date",
+    "end_date":"End Date",
+    "barcode":"Barcode",
+    "Q_bymonth":"Quantity By Month",
+    "Q_byyear":"Quantity By Year",
+    "Q_byday":"Quantity By day",
+    "S_byday":"Sales by day",
+    "S_bymonth":"Sales By Month",
+    "S_byyear":"Sales By Year",
+    "printer":"Printer",
+    "connect":"Connect",
+    "disconnect":"Disconnect",
+    "topproducts":"Top products",
+    "turnover":"Turnover",
+    "gprofit":"Gross profit",
+    "inventoryalert":"Inventory alert",
+    "byday": "By day",
+    "bymonth": "By month",
+    "byyear": "By year ",
+    "lastmonth":"Last Month"
+
+  },
+  "productList": {
+    "alert_title": "Produkt löschen",
+    "alert_content": "Möchten Sie das Produkt wirklich löschen?"
+  },
+  "bottomNavigation": {
+    "home": "Zuhause",
+    "products": "Produkte",
+    "add": "Hinzufügen",
+    "scan": "Scan"
+  },
+  "ordersScreen": {
+    "title": "Kundenaufträg"
+  },
+  "statistics": {
+    "topTrendingCategories": "Top-Trend-Kategorien",
+    "topTrendingSuppliers": "Top Trending Lieferanten"
+  },
+  "serverError": {
+    "session_exp": "Sitzung abgelaufen",
+    "session_error": "Deine Sitzung ist abgelaufen. Bitte melden Sie sich erneut an, um die App weiter zu verwenden.",
+    "okay": "okay",
+    "1": "Fehlende Parameter",
+    "2": "Sitzung abgelaufen. Bitte loggen Sie sich erneut ein",
+    "3": "Interner Fehler",
+    "4": "Zugriff abgelehnt. Sie haben keinen Zugriff auf die angeforderten Ressourcen",
+    "5": "Der ausgewählte Barcode ist bereits vorhanden",
+    "else": "Etwas passiert !",
+    "store_error": "Kein Geschäft ausgewählt"
+  }
+}
