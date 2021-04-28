@@ -1,5 +1,5 @@
 import 'package:ecommerce_app_ui_kit/config/ui_icons.dart';
-import 'package:ecommerce_app_ui_kit/src/models/user.dart';
+import 'package:ecommerce_app_ui_kit/src/models/userOld.dart';
 import 'package:ecommerce_app_ui_kit/src/screens/Services.dart';
 import 'package:ecommerce_app_ui_kit/src/widgets/ProfileSettingsDialog.dart';
 import 'package:ecommerce_app_ui_kit/src/widgets/SearchBarWidget.dart';

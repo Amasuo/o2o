@@ -1,6 +1,6 @@
 import 'package:ecommerce_app_ui_kit/config/ui_icons.dart';
 import 'package:ecommerce_app_ui_kit/src/models/conversation.dart' as model;
-import 'package:ecommerce_app_ui_kit/src/models/user.dart';
+import 'package:ecommerce_app_ui_kit/src/models/userOld.dart';
 import 'package:flutter/material.dart';
 
 class MessageItemWidget extends StatefulWidget {

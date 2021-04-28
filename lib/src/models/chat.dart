@@ -1,4 +1,4 @@
-import 'package:ecommerce_app_ui_kit/src/models/user.dart';
+import 'package:ecommerce_app_ui_kit/src/models/userOld.dart';
 import 'package:flutter/material.dart';
 
 class Chat {

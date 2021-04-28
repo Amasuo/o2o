@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:ecommerce_app_ui_kit/config/ui_icons.dart';
 import 'package:ecommerce_app_ui_kit/src/models/chat.dart';
 import 'package:ecommerce_app_ui_kit/src/models/conversation.dart';
-import 'package:ecommerce_app_ui_kit/src/models/user.dart';
+import 'package:ecommerce_app_ui_kit/src/models/userOld.dart';
 import 'package:ecommerce_app_ui_kit/src/widgets/ChatMessageListItemWidget.dart';
 import 'package:flutter/material.dart';
 
